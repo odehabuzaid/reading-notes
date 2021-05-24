@@ -1,4 +1,4 @@
-# GIT 
+# Git
 > Distributed Version Control System
 
 
