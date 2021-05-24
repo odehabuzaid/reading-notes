@@ -16,7 +16,7 @@ we can develop our certin level of inherent qualities & intelligence that we bor
 by effort, strategies, facing challenges and learning from our mistakes.
 ##### To keep my self in a growth mindset :
 
-- accept having a foxed mindset.
+- accept having a fixed mindset.
 - dont be an instant gratification monkey.
 - Speed is not important
 
