@@ -19,7 +19,7 @@
 3. [Revisions & Cloud ](Lec1/Read_02-%20Revisions%20and%20the%20Cloud.md)
 
 * Lecture 2 
-1. [ACP test 1 GitHub](Lec2/Lec2-Tst1.md)
+1. [ACP test 1 replit](Lec2/Lec2-Tst1.md)
 2. [ACP test 2 VSCODE](Lec2/Lec2-Tst2.md)
 3. [ACP test 3 VS](Lec2/Lec2-Tst3.md)
 4. [HTML Structure Test](Lec2/HTML/index.html)
