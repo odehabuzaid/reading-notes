@@ -48,7 +48,7 @@ Wireframing is a practice used by UX designers which allows them to define and p
 
   3- Switching later to software (after initially hand-drawing your wireframe) allows you to keep track of more detailed decisions.
 
-- Tolls & Software That can be used 
+* **Tolls & Software That can be used**:
 
   1- UXPin.com : UXPin has a wide range of functionalities, but one of the best ones is how it facilitates building responsive clickable prototypes directly in your browser.
 
@@ -62,7 +62,7 @@ Wireframing is a practice used by UX designers which allows them to define and p
 # HTML Structure
  What Is HTML
 
-    HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.
+ HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.
 
 * **Example**
   
