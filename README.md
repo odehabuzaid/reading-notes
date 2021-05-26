@@ -1,10 +1,10 @@
-# `reading-notes`
- Mark Down file example - code 102 
+# **`reading-notes`**
 
+    ```
     Odeh Abuzaid 
     Software Engineering 2013"
     Currently Learning Software Development in ASAC 
-
+    ```
 ## Check Out My 
   - [replit](https://replit.com/@OAbuzaid)
   - [gethub](https://github.com/odehabuzaid)
@@ -23,5 +23,5 @@
 2. [ACP test 2 VSCODE](Lec2/Lec2-Tst2.md)
 3. [ACP test 3 VS](Lec2/Lec2-Tst3.md)
 4. [HTML Structure Test](Lec2/HTML/index.html)
-5. [Reading | Design & HTML](Lec2/Lab-Reading.md)
+5. [Reading - Design & HTML](Lec2/Lab-Reading.md)
   
