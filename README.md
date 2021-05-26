@@ -13,15 +13,15 @@
 
 ### Table of Content
 ---
-  * Lecture 1
-1. [Growth-Mindset](Lec1/Growth-MindSet.md)
-2. [Learning Mark-Down](Lec1/Learning%20Mark-Down.md)
-3. [Revisions & Cloud ](Lec1/Read_02-%20Revisions%20and%20the%20Cloud.md)
+  1- Lecture 1
+- [Growth-Mindset](Lec1/Growth-MindSet.md)
+- [Learning Mark-Down](Lec1/Learning%20Mark-Down.md)
+- [Revisions & Cloud ](Lec1/Read_02-%20Revisions%20and%20the%20Cloud.md)
 
-* Lecture 2 
-1. [ACP test 1 replit](Lec2/Lec2-Tst1.md)
-2. [ACP test 2 VSCODE](Lec2/Lec2-Tst2.md)
-3. [ACP test 3 VS](Lec2/Lec2-Tst3.md)
-4. [HTML Structure Test](Lec2/HTML/index.html)
-5. [Reading - Design & HTML](Lec2/Lab-Reading.md)
+2-  Lecture 2 
+- [ACP test 1 replit](Lec2/Lec2-Tst1.md)
+- [ACP test 2 VSCODE](Lec2/Lec2-Tst2.md)
+- [ACP test 3 VS](Lec2/Lec2-Tst3.md)
+- [HTML Structure Test](Lec2/HTML/index.html)
+- [Reading lab - Design & HTML](Lec2/Lab-Reading.md)
   
