@@ -19,12 +19,9 @@
 
 User experience design is a human-first way of designing products.
  
-```
-“User experience encompasses all aspects of the end-user’s interaction with the company, its services, and its products.”
+> “User experience encompasses all aspects of the end-user’s interaction with the company, its services, and its products.”
 
-Don Norman 
-Nielsen Norman Group Design Consultancy
-```
+Don Norman - Nielsen Norman Group Design Consultancy
 
 Essentially, UX applies to anything that can be experienced—be it a website, a coffee machine, or a visit to the supermarket. The “user experience” part refers to the interaction between the user and a product or service. User experience design, then, considers all the different elements that shape this experience.
 
@@ -36,7 +33,7 @@ User interface design is a strictly digital term. A user interface is the point 
 
 ## The Diffrence Between UX - UI design 
 
-`UX design is all about the overall feel of the experience, while UI design is all about how the product’s interfaces look and function.`
+> UX design is all about the overall feel of the experience, while UI design is all about how the product’s interfaces look and function.
 
 
 ## **WireFrame**
@@ -84,10 +81,10 @@ Let's explore this paragraph element a bit further.
 
 >The main parts of our element are as follows:
 
-- The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
-- The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
-- The content: This is the content of the element, which in this case, is just text.
-- The element: The opening tag, the closing tag, and the content together comprise the element.
+- **The opening tag**: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
+- **The closing tag**: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
+- **The content**: This is the content of the element, which in this case, is just text.
+- **The element**: The opening tag, the closing tag, and the content together comprise the element.
 
 
 ## **Anatomy of an HTML document**
