@@ -1,10 +1,10 @@
 # **`reading-notes`**
 
-    ```
-    Odeh Abuzaid 
-    Software Engineering 2013"
-    Currently Learning Software Development in ASAC 
-    ```
+
+Odeh Abuzaid - Software Engineering 2013"
+
+Currently Learning Software Development in ASAC 
+
 ## Check Out My 
   - [replit](https://replit.com/@OAbuzaid)
   - [gethub](https://github.com/odehabuzaid)
