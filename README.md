@@ -4,21 +4,22 @@
     Odeh Abuzaid 
     Software Engineering 2013"
     Currently Learning Software Development in ASAC 
+
+## Check Out My 
   - [replit](https://replit.com/@OAbuzaid)
   - [gethub](https://github.com/odehabuzaid)
   - [codepen](https://codepen.io/odehabuzaid) 
 ---
 
+### Table of Content
+---
+  * Lec 1
+1. [Growth-Mindset](Lec1/Growth-MindSet.md)
+2. [Learning Mark-Down](Lec1/Learning%20Mark-Down.md)
+3. [Revisions & Cloud ](Lec1/Read_02-%20Revisions%20and%20the%20Cloud.md)
 
-### **Growth Mindset**
-growth mindset is a person’s belief about the nature of intelligence,
-we can develop our certin level of inherent qualities & intelligence that we born with 
-by effort, strategies, facing challenges and learning from our mistakes.
-##### To keep my self in a growth mindset :
-
-- accept having a fixed mindset.
-- dont be an instant gratification monkey.
-- Speed is not important
-
-![alt text](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
-- [x] done
+* Lec 2 
+1. [ACP test 1 GitHub](Lec2/Lec2-Tst1.md)
+2. [ACP test 2 VSCODE](Lec2/Lec2-Tst2.md)
+3. [ACP test 3 VS](Lec2/Lec2-Tst3.md)
+  
