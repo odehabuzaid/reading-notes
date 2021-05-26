@@ -2,7 +2,6 @@
 
 ### Table of contents
   - [Design](#Design)
-     
   - [HTML Structure](#HTML-Structure)
 
 
