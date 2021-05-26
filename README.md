@@ -23,5 +23,5 @@
 2. [ACP test 2 VSCODE](Lec2/Lec2-Tst2.md)
 3. [ACP test 3 VS](Lec2/Lec2-Tst3.md)
 4. [HTML Structure Test](Lec2/HTML/index.html)
-
+5. [Reading | Design & HTML](Lec2/Lab-Reading.md)
   
