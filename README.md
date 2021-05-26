@@ -8,11 +8,10 @@ Currently Learning Software Development in ASAC
 ## Check Out My 
   - [replit](https://replit.com/@OAbuzaid)
   - [gethub](https://github.com/odehabuzaid)
-  - [codepen](https://codepen.io/odehabuzaid) 
+ 
   
-  
----
 
+---
 ### Table of Content
 ---
   1- Lecture 1
