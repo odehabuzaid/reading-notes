@@ -27,7 +27,7 @@ Currently Learning Software Development in ASAC
 - [Reading lab - Design & HTML](Lec2/Lab-Reading.md)
 
 3-  Lecture 4
-- [Java Script](https://github.com/odehabuzaid/reading-notes/blob/main/Lec%204/Lab4-Javascript.md)
+- [Java Script](Lec4/Lab4-Reading.md)
 
 
   
