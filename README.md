@@ -25,4 +25,9 @@ Currently Learning Software Development in ASAC
 - [ACP test 3 VS](Lec2/Lec2-Tst3.md)
 - [HTML Structure Test](Lec2/HTML/index.html)
 - [Reading lab - Design & HTML](Lec2/Lab-Reading.md)
+
+3-  Lecture 4
+- [Java Script](https://github.com/odehabuzaid/reading-notes/blob/main/Lec%204/Lab4-Javascript.md)
+
+
   
