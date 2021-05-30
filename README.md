@@ -23,11 +23,13 @@ Currently Learning Software Development in ASAC
 - [ACP test 1 replit](Lec2/Lec2-Tst1.md)
 - [ACP test 2 VSCODE](Lec2/Lec2-Tst2.md)
 - [ACP test 3 VS](Lec2/Lec2-Tst3.md)
-- [HTML Structure Test](Lec2/HTML/index.html)
 - [Reading lab - Design & HTML](Lec2/Lab-Reading.md)
 
 3-  Lecture 4
 - [Java Script](Lec4/Lab4-Reading.md)
+
+4- Lecture 5
+- [Operators and Loops](Lec5/Operators-loops.md)
 
 
   
