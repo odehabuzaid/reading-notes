@@ -14,7 +14,7 @@ Currently Learning Software Development in ASAC
 ---
 ### Table of Content
 ---
-  1- Lecture 1
+1- Lecture 1
 - [Growth-Mindset](Lec1/Growth-MindSet.md)
 - [Learning Mark-Down](Lec1/Learning%20Mark-Down.md)
 - [Revisions & Cloud ](Lec1/Read_02-%20Revisions%20and%20the%20Cloud.md)
@@ -30,6 +30,10 @@ Currently Learning Software Development in ASAC
 
 4- Lecture 5
 - [Operators and Loops](Lec5/Operators-loops.md)
+
+5- Lecture 6
+- [Control flow & Functions](Lec6/ControlFlowandFunctions.md)
+- [CSS](Lec6/CSS.md)
 
 
   

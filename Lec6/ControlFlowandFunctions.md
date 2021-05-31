@@ -20,7 +20,7 @@ if (value = something ) {
 
 ## ** What is a JS function
 
-A **function** is a block of code that performs a task or calculates a value.
+A  `function` is a block of code that performs a task or calculates a value.
  
 it should take some input and return an output where there is some obvious relationship between the input and the output. 
 
