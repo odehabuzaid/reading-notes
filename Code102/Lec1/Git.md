@@ -99,4 +99,4 @@ there are two parts to most Git repos
 ```
 
 
-[**Back**](/../reading-notes/README.md)                     | [**TOP**](#Git) |
+[**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](#Git) |
