@@ -16,7 +16,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | Lecture | Subject  | 
 | ---            | :--        |   
 |     1    | [Growth-Mindset](Code102/Lec1/Growth-MindSet.md) </br>  [Learning Mark-Down](Code102/Lec1/Learning%20Mark-Down.md)|  
-|     2    | [Revisions & Cloud](Code102/Lec1/Read_02-%20Revisions%20and%20the%20Cloud.md) |
+|     2    | [Revisions & Cloud - Git](Code102/Lec1/Git.md) |
 |     3    | [Reading lab - Design & HTML](Code102/Lec2/Lab-Reading.md)|
 |     4    | [Java Script](Code102/Lec4/Lab4-Reading.md) |
 |     5    | [Operators and Loops](Code102/Lec5/Operators-loops.md) |
@@ -31,7 +31,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 | Lecture | Subject | 
 | ---            | :--        |   
-| 1 | [              ]()||  
+| 1 | [              ]()|  
 | 2 | []() |  
 | 3 | []() |  
 | 4 | []() |  

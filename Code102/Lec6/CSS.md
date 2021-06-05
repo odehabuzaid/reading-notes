@@ -1,5 +1,4 @@
-# CSS 
-
+#  CSS 
 
 Css file (`Cascading Style Sheets`) is a sheet that creates the looking of a webpage or we can say how content is presented to users 
 and in that sheet we define rules that specify styles applied to elements and present them to the user by the browser.
@@ -22,5 +21,6 @@ h1 {
 The `rule` opens with a selector . 
 
 This selects the HTML element that we are going to style.
-In this case we are styling level one headings <h1>
+In this case we are styling level one headings 
 
+[*Back*](/../reading-notes/README.md)

@@ -10,4 +10,5 @@ by effort, strategies, facing challenges and learning from our mistakes.
 - Speed is not important
 
 ![alt text](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
-- [x] done
+
+[**Back**](/../reading-notes/README.md)
