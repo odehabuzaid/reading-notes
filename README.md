@@ -13,24 +13,24 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 ## Class 102 
 ### **`Intro to Software Development`**
 
-| Lecture |  | Subject |  |
-| ---            | :--        |         --: |      :-:     |
+| Lecture | Subject  | 
+| ---            | :--        |   
 |     1    | [Growth-Mindset](Code102/Lec1/Growth-MindSet.md) </br>  [Learning Mark-Down](Code102/Lec1/Learning%20Mark-Down.md)|  
 |     2    | [Revisions & Cloud](Code102/Lec1/Read_02-%20Revisions%20and%20the%20Cloud.md) |
 |     3    | [Reading lab - Design & HTML](Code102/Lec2/Lab-Reading.md)|
 |     4    | [Java Script](Code102/Lec4/Lab4-Reading.md) |
 |     5    | [Operators and Loops](Code102/Lec5/Operators-loops.md) |
 |     6    | [Control flow & Functions](Code102/Lec6/ControlFlowandFunctions.md) </br> [CSS](Code102/Lec6/CSS.md)  |
-|  | []() |
+
 
 ## Class 201
 
 ### **`Foundations of Software Development`**
 
-* pre-work   : [Introduction html & JavaScript - Dukkt](Code201/Class-01.md)
+* pre-work   : [Introduction html & JavaScript](Code201/Class-01.md)
 
-| Lecture |  | Subject |  |
-| ---            | :--        |         --: |      :-:     |
+| Lecture | Subject | 
+| ---            | :--        |   
 | 1 | [              ]()||  
 | 2 | []() |  
 | 3 | []() |  
