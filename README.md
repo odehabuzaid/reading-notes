@@ -5,12 +5,12 @@ I’m a software engineering graduate, with about 8 years of experience in IT op
 Additionally, I  have efficient skills & experience in developing windows services & applications alongside basic SQL practices. 
 Now I am learning  Software Development to advance my career obtaining a full-stack web Developer position. 
 
----
-### Table of Content
----
+
+### **Table of Content**
+
 
 ## Class 102
-
+---
 
 1- Lecture 1
 - [Growth-Mindset](Lec1/Growth-MindSet.md)
@@ -34,7 +34,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 - [CSS](Lec6/CSS.md)
 
 ## Class 201
-
+---
 
 
 
