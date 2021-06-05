@@ -1,15 +1,9 @@
 # **`reading-notes`**
 
-
-Odeh Abuzaid - Software Engineering 2013"
-
-Currently Learning Software Development in ASAC 
-
-## Check Out My 
-  - [replit](https://replit.com/@OAbuzaid)
-  - [gethub](https://github.com/odehabuzaid)
- 
-  
+Hello Everyone , 
+I’m a software engineering graduate, with about 8 years of experience in IT operations and IT infrastructure management. 
+Additionally, I  have efficient skills & experience in developing windows services & applications alongside basic SQL practices. 
+Now I am learning  Software Development to advance my career obtaining a full-stack web Developer position. 
 
 ---
 ### Table of Content
@@ -17,7 +11,6 @@ Currently Learning Software Development in ASAC
 
 ## Class 102
 
----
 
 1- Lecture 1
 - [Growth-Mindset](Lec1/Growth-MindSet.md)
@@ -42,6 +35,6 @@ Currently Learning Software Development in ASAC
 
 ## Class 201
 
----
+
 
 
