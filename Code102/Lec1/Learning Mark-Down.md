@@ -89,4 +89,4 @@ There are also variants of Markdown—such as CommonMark and GitHub Flavored Mar
 [github-image]: https://www.shareicon.net/data/128x128/2017/06/22/887590_logo_512x512.png
 [github-url]: https://guides.github.com/features/mastering-markdown/ "github"
 
-[**Back**](/../reading-notes/README.md)                     | [**TOP**](#Learning-Markdown) |
+[**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](#Learning-Markdown) |

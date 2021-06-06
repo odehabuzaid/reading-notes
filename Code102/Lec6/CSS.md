@@ -23,4 +23,4 @@ The `rule` opens with a selector .
 This selects the HTML element that we are going to style.
 In this case we are styling level one headings 
 
-[*Back*](/../reading-notes/README.md)
+[*Back*](https://odehabuzaid.github.io/reading-notes/)

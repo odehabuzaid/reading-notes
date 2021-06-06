@@ -10,10 +10,10 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 ### **Table of Content**
 
-## Class 102 
+## Code 102 
 ### **`Intro to Software Development`**
 
-| Lecture | Subject  | 
+| Class | Subject  | 
 | ---            | :--        |   
 |     1    | [Growth-Mindset](Code102/Lec1/Growth-MindSet.md) &  [Learning Mark-Down](Code102/Lec1/Learning%20Mark-Down.md)|  
 |     2    | [Revisions & Cloud - Git](Code102/Lec1/Git.md) |
@@ -23,13 +23,13 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 |     6    | [Control flow & Functions](Code102/Lec6/ControlFlowandFunctions.md)  &  [CSS](Code102/Lec6/CSS.md)  |
 
 
-## Class 201
+## Code 201
 
 ### **`Foundations of Software Development`**
 
 * pre-work   : [Introduction html & JavaScript](Code201/Class-01.md)
 
-| Lecture | Subject | 
+| # | Subject | 
 | ---            | :--        |   
 | 1 | [              ]()|  
 | 2 | []() |  

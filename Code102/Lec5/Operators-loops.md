@@ -97,4 +97,4 @@ do {
 
 read more about For and do ... while statements [Here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement).
 
-[**Back**](/../reading-notes/README.md)                     | [**TOP**](#Expressions-and-operators) |
+[**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](#Expressions-and-operators) |

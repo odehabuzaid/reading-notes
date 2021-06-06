@@ -104,4 +104,4 @@ That wraps up the basics of individual HTML elements, but they aren't handy on t
 and thats all , 
 You can take a look at  [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) for more Detailed Informations .
 
-[**Back**](/../reading-notes/README.md)                     | [**TOP**](#Design-&-HTML) |
+[**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](#Design-&-HTML) |

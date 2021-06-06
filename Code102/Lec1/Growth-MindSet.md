@@ -11,4 +11,4 @@ by effort, strategies, facing challenges and learning from our mistakes.
 
 ![alt text](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
 
-[**Back**](/../reading-notes/README.md)
+[**Back**](https://odehabuzaid.github.io/reading-notes/)
