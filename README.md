@@ -27,7 +27,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 ### **`Foundations of Software Development`**
 
-* pre-work   : [Introduction html & JavaScript](Code201/Class-01.md)
+* pre-work   : [Introduction html & JavaScript](Code201/class-01.md)
 
 | # | Subject | 
 | ---            | :--        |   
