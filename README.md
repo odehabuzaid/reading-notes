@@ -33,7 +33,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | ---            | :--        |   
 | 1 | [Introduction html & JavaScript](Code201/class-01.md)|  
 | 2 | [HTML Text, CSS,javascript Basics](Code201/class-02.md) |  
-| 3 | []() |  
+| 3 | [HTML lists,Css Boxes, Control Flow](Code201/class-03.md) |  
 | 4 | []() |  
 | 5 | []() |
 | 6 | []() |
