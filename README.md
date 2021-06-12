@@ -27,8 +27,6 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 ### **`Foundations of Software Development`**
 
-* pre-work   : 
-
 | # | Subject | 
 | ---            | :--        |   
 | 1 | [Introduction html & JavaScript](Code201/class-01.md)|  
@@ -36,7 +34,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 3 | [HTML lists,Css Boxes, Control Flow](Code201/class-03.md) |  
 | 4 | [HTML lists,Js Functions & Objects](Code201/class-04.md) |  
 | 5 | [HTML Images, CSS Color & Text](Code201/class-05.md) |
-| 6 | []() |
+| 6 | [Problem Domain, Objects Literals](Code201/class-06.md)  |
 | 7 | []() |
 | 8 | []() |
 | 9 | []() |
