@@ -1,5 +1,6 @@
+# Class 3
 
-## **HTML lists**
+# **HTML lists**
 
 #### The types of lists that can be used in HTML are :
 
@@ -169,3 +170,5 @@ allows a program to evaluate an expression and attempt to match the expression's
 
 [read More](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 
+
+   [**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](#Class-3) |

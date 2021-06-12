@@ -213,4 +213,4 @@ The value of these attributes can be any thing : most common used values :
 </head>
 ```
 
-... To be Continued 
+   [**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](#Structure-OF-a-web-Page) |
