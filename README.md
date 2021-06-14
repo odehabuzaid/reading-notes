@@ -30,12 +30,12 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | # | Subject | 
 | ---            | :--        |   
 | 1 | [Introduction html & JavaScript](Code201/class-01.md)|  
-| 2 | [HTML Text, CSS,javascript Basics](Code201/class-02.md) |  
+| 2 | [HTML Text, CSS,javascript Basics](Code201/Class-02.md) |  
 | 3 | [HTML lists,Css Boxes, Control Flow](Code201/class-03.md) |  
 | 4 | [HTML lists,Js Functions & Objects](Code201/class-04.md) |  
 | 5 | [HTML Images, CSS Color & Text](Code201/class-05.md) |
-| 6 | [Problem Domain, Objects Literals](Code201/class-06.md)  |
-| 7 | []() |
+| 6 | [Problem Domain, Objects Literals](Code201/Class-06.md)  |
+| 7 | [Domain Modeling, HTML tables Js Functions](Code201/class-07.md)  |
 | 8 | []() |
 | 9 | []() |
 | 10 | []() |
