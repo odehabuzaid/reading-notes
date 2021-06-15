@@ -36,7 +36,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 5 | [HTML Images, CSS Color & Text](Code201/class-05.md) |
 | 6 | [Problem Domain, Objects Literals](Code201/Class-06.md)  |
 | 7 | [Domain Modeling, HTML tables Js Functions](Code201/class-07.md)  |
-| 8 | []() |
+| 8 | [CSS Layout](Code201/class-08.md) |
 | 9 | []() |
 | 10 | []() |
 | 11 | []() |
