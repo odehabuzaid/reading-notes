@@ -35,6 +35,4 @@ The flexbox layout makes it simpler to arrange elements in different screen size
 - grid layouts create a profissional and a flixable designs.
 
 
->![css layout](https://i.imgur.com/M1KvRAE.png)
-
 [**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](#Class-8) |
