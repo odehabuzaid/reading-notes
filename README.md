@@ -38,7 +38,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 7 | [Domain Modeling, HTML tables Js Functions](Code201/class-07.md)  |
 | 8 | [CSS Layout](Code201/class-08.md) |
 | 9 | [HTML FORMS,JS EVENTS](Code201/class-09.md) |
-| 10 | []() |
+| 10 | [control flow ,debugging](Code201/class-10.md) |
 | 11 | []() |
 | 12 | []() |
 | 13 | []() |
