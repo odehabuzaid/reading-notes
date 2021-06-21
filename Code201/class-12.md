@@ -35,3 +35,7 @@ new Chart(countries).Pie(pieData, pieOptions);
 ```
 
 >![Jsimg](https://miro.medium.com/max/3648/1*ZxZMc4n6XJxlNjA-p4WAKg.png)
+
+
+[**Back**](https://odehabuzaid.github.io/reading-notes/)                     | [**TOP**](##CHARTS) |
+
