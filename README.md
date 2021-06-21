@@ -41,7 +41,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 10 | [control flow ,debugging](Code201/class-10.md) |
 | 11 | [Images ,Practical Info](Code201/class-11.md) |
 | 12 | [CHART](Code201/class-12.md) |
-| 13 | []() |
+| 13 | [Local Storage](Code201/class-13.md) |
 | 14 | []() |
 | 15 | []() |
 
