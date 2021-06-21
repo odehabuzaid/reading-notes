@@ -40,7 +40,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 9 | [HTML FORMS,JS EVENTS](Code201/class-09.md) |
 | 10 | [control flow ,debugging](Code201/class-10.md) |
 | 11 | [Images ,Practical Info](Code201/class-11.md) |
-| 12 | []() |
+| 12 | [CHART](Code201/class-12.md) |
 | 13 | []() |
 | 14 | []() |
 | 15 | []() |
