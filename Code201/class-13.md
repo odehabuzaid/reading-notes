@@ -31,7 +31,7 @@ a way for web pages to store data in key/value pairs locally, within the client 
 
 STORAGEEVENT OBJECT
 
-> ![Jsimg](/code201/res/localstorage.PNG)
+> ![Jsimg](./code201/res/localstorage.PNG)
 
 examples and usage : 
 
