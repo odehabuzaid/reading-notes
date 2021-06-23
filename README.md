@@ -42,6 +42,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 11 | [Images ,Practical Info](Code201/class-11.md) |
 | 12 | [CHART](Code201/class-12.md) |
 | 13 | [Local Storage](Code201/class-13.md) |
-| 14a |  [CSS Transforms, Transitions, and Animations](Code201/class-14a.md) |
+| 14 |  [CSS Transforms, Transitions, and Animations](Code201/class-14a.md) |
+|    |  [Google Teams Article](Code201/class-14b.md) |
 | 15 |  []() |
 
