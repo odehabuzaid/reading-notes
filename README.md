@@ -51,20 +51,21 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 ### **`Intermediate Software Development`**
 
-|'#' |  Content |
+| # | Subject | 
 | ---            | :--        |   
-| 1  | [Read: Class-01](Code301/class-01.md)|
-| 2  | [Read: Class-02](Code301/class-02.md)|
-| 3  | [Read: Class-03](Code301/class-03.md) |
-| 4  | [Read: Class-04](Code301/class-04.md)|
-| 5  | [Read: Class-05](Code301/class-05.md)|
-| 6  | [Read: Class-06](Code301/class-06.md)|
-| 7  | [Read: Class-07](Code301/class-07.md)|
-| 8  | [Read: Class-08](Code301/class-08.md)|
-| 9  | [Read: Class-09](Code301/class-09.md)|
-| 10 | [Read: Class-10](Code301/class-10.md)|
-| 11 | [Read: Class-11](Code301/class-11.md)|
-| 12 | [Read: Class-12](Code301/class-12.md)|
-| 13 | [Read: Class-13](Code301/class-13.md)|
-| 14 | [Read: Class-14](Code301/class-14a.md)|
-| 15 | [Read-15](Code301/class-14b.md)|
+| 1 | [Read: Class-01](Code301/class-01.md)|  
+| 2 | [Read: Class-0](Code301/Class-02.md) |  
+| 3 | [Read: Class-0](Code301/class-03.md) |  
+| 4 | [Read: Class-0](Code301/class-04.md) |  
+| 5 | [Read: Class-0](Code301/class-05.md) |
+| 6 | [Read: Class-0](Code301/Class-06.md)  |
+| 7 | [Read: Class-0](Code301/class-07.md)  |
+| 8 | [Read: Class-0](Code301/class-08.md) |
+| 9 | [Read: Class-0](Code301/class-09.md) |
+| 10 | [Read: Class-0](Code301/class-10.md) |
+| 11 | [Read: Class-0](Code301/class-11.md) |
+| 12 | [Read: Class-0](Code301/class-12.md) |
+| 13 | [Read: Class-0](Code301/class-13.md) |
+| 14 | [Read: Class-0](Code301/class-14.md) |
+| 15 | [Read: Class-0](Code301/class-15.md) |
+
