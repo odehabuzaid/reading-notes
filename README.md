@@ -51,9 +51,8 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 ### **`Intermediate Software Development`**
 
-
 |'#' |  Content |
-| ------------ | -------------|
+| ---            | :--        |   
 | 1  | [Read: Class-01](Code301/class-01.md)|
 | 2  | [Read: Class-02](Code301/class-02.md)|
 | 3  | [Read: Class-03](Code301/class-03.md) |
