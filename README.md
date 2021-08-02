@@ -55,17 +55,17 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | ---            | :--        |   
 | 1 | [Component Based Architecture](Code301/class-01.md)|  
 | 2 | [State and Props](Code301/Class-02.md) |  
-| 3 | [Read: Class-0](Code301/class-03.md) |  
-| 4 | [Read: Class-0](Code301/class-04.md) |  
-| 5 | [Read: Class-0](Code301/class-05.md) |
+| 3 | [Read: Class-0](Code301/Class-03.md) |  
+| 4 | [Read: Class-0](Code301/Class-04.md) |  
+| 5 | [Read: Class-0](Code301/Class-05.md) |
 | 6 | [Read: Class-0](Code301/Class-06.md)  |
-| 7 | [Read: Class-0](Code301/class-07.md)  |
-| 8 | [Read: Class-0](Code301/class-08.md) |
-| 9 | [Read: Class-0](Code301/class-09.md) |
-| 10 | [Read: Class-0](Code301/class-10.md) |
-| 11 | [Read: Class-0](Code301/class-11.md) |
-| 12 | [Read: Class-0](Code301/class-12.md) |
-| 13 | [Read: Class-0](Code301/class-13.md) |
-| 14 | [Read: Class-0](Code301/class-14.md) |
-| 15 | [Read: Class-0](Code301/class-15.md) |
+| 7 | [Read: Class-0](Code301/Class-07.md)  |
+| 8 | [Read: Class-0](Code301/Class-08.md) |
+| 9 | [Read: Class-0](Code301/Class-09.md) |
+| 10 | [Read: Class-0](Code301/Class-10.md) |
+| 11 | [Read: Class-0](Code301/Class-11.md) |
+| 12 | [Read: Class-0](Code301/Class-12.md) |
+| 13 | [Read: Class-0](Code301/Class-13.md) |
+| 14 | [Read: Class-0](Code301/Class-14.md) |
+| 15 | [Read: Class-0](Code301/Class-15.md) |
 
