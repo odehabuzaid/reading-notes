@@ -53,8 +53,8 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 | # | Subject | 
 | ---            | :--        |   
-| 1 | [Read: Class-01](Code301/class-01.md)|  
-| 2 | [Read: Class-0](Code301/Class-02.md) |  
+| 1 | [Component Based Architecture](Code301/class-01.md)|  
+| 2 | [State and Props](Code301/Class-02.md) |  
 | 3 | [Read: Class-0](Code301/class-03.md) |  
 | 4 | [Read: Class-0](Code301/class-04.md) |  
 | 5 | [Read: Class-0](Code301/class-05.md) |
