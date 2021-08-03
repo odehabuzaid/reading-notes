@@ -55,7 +55,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | ---            | :--        |   
 | 1 | [Component Based Architecture](Code301/class-01.md)|  
 | 2 | [State and Props](Code301/Class-02.md) |  
-| 3 | [Read: Class-0](Code301/Class-03.md) |  
+| 3 | [Read: Class-0](Code301/class-03.md) |  
 | 4 | [Read: Class-0](Code301/Class-04.md) |  
 | 5 | [Read: Class-0](Code301/Class-05.md) |
 | 6 | [Read: Class-0](Code301/Class-06.md)  |
