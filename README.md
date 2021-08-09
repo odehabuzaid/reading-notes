@@ -59,7 +59,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 4 | [Ternary Operator-React Forms](Code301/class-04.md) |  
 | 5 | [thinking in React](Code301/class-05.md) |
 | 6 | [Node.js](Code301/class-06.md)  |
-| 7 | [Read: Class-0](Code301/class-07.md)  |
+| 7 | [REST](Code301/class-07.md)  |
 | 8 | [Read: Class-0](Code301/class-08.md) |
 | 9 | [Read: Class-0](Code301/class-09.md) |
 | 10 | [Read: Class-0](Code301/class-10.md) |
