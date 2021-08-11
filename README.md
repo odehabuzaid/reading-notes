@@ -62,7 +62,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 7 | [REST](Code301/class-07.md)  |
 | 8 | [APIs](Code301/class-08.md) |
 | 9 | [Functional Programming Concepts](Code301/class-09.md) |
-| 10 | [Read: Class-0](Code301/class-10.md) |
+| 10 | [Call Stack](Code301/class-10.md) |
 | 11 | [Read: Class-0](Code301/class-11.md) |
 | 12 | [Read: Class-0](Code301/class-12.md) |
 | 13 | [Read: Class-0](Code301/class-13.md) |
