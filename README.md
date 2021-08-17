@@ -65,7 +65,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 10 | [Call Stack](Code301/class-10.md) |
 | 11 | [OAuth](Code301/class-11.md) |
 | 12 | [Databases](Code301/class-12.md) |
-| 13 | [Read: Class-0](Code301/class-13.md) |
+| 13 | [Readings: CRUD](Code301/class-13.md) |
 | 14 | [Read: Class-0](Code301/class-14.md) |
 | 15 | [Read: Class-0](Code301/class-15.md) |
 
