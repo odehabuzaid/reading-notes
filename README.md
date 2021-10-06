@@ -10,11 +10,12 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 
 ### **Table of Content**
 
-## Code 102 
+## Code 102
+
 ### **`Intro to Software Development`**
 
-| Class | Subject  | 
-| ---            | :--        |   
+| Class | Subject  |
+| ---            | :--        |
 |     1    | [Growth-Mindset](Code102/Lec1/Growth-MindSet.md) &  [Learning Mark-Down](Code102/Lec1/Learning%20Mark-Down.md)|  
 |     2    | [Revisions & Cloud - Git](Code102/Lec1/Git.md) |
 |     3    | [Reading lab - Design & HTML](Code102/Lec2/Lab-Reading.md)|
@@ -22,13 +23,12 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 |     5    | [Operators and Loops](Code102/Lec5/Operators-loops.md) |
 |     6    | [Control flow & Functions](Code102/Lec6/ControlFlowandFunctions.md)  &  [CSS](Code102/Lec6/CSS.md)  |
 
-
 ## Code 201
 
 ### **`Foundations of Software Development`**
 
-| # | Subject | 
-| ---            | :--        |   
+| # | Subject |
+| ---            | :--        |
 | 1 | [Introduction html & JavaScript](Code201/class-01.md)|  
 | 2 | [HTML Text, CSS,javascript Basics](Code201/Class-02.md) |  
 | 3 | [HTML lists,Css Boxes, Control Flow](Code201/class-03.md) |  
@@ -46,13 +46,12 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 |    |  [Google Teams Article](Code201/class-14b.md) |
 | 15 |  []() |
 
-
 ## Code 301
 
 ### **`Intermediate Software Development`**
 
-| # | Subject | 
-| ---            | :--        |   
+| # | Subject |
+| ---            | :--        |
 | 1 | [Component Based Architecture](Code301/class-01.md)|  
 | 2 | [State and Props](Code301/Class-02.md) |  
 | 3 | [Spread Operator-lists and keys](Code301/class-03.md) |  
@@ -69,3 +68,28 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 14 | [Diversity & Inclusion in the Tech Industry](Code301/class-14.md) |
 | 15 | [Read: Class-0](Code301/class-15.md) |
 
+## Code 401
+
+### **`Advanced Software Development`**
+
+| # | Subject |
+| ---            | :--        |
+| 1 | [Names and Values in Python](Code401/class-01.md)|  
+| 2 | [Testing and Modules](Code401/Class-02.md) |  
+| 3 | [FileIO & Exceptions](Code301/class-03.md) |  
+| 4 | [Classes and Objects](Code401/class-04.md) |  
+| 5 | [Linked Lists](Code401/class-05.md) |
+| 6 | [GOG 1-Random Module](Code401/class-06.md)  |
+| 7 | [GOG 2-python Scope](Code401/class-07.md)  |
+| 8 | [GOG 3-List Comprehensions](Code401/class-08.md) |
+| 9 | [GOG 4](Code401/class-09.md)<br> Dunder Methods <br>Statistics - Probability
+| 10 | [Stacks and Queues](Code401/class-10.md) |
+| 11 | [Data Analysis](Code401/class-11.md) |
+| 12 | [Pandas](Code401/class-12.md) |
+| 13 | [Linear Regressions](Code401/class-13.md) |
+| 14 | [Data Visualization](Code401/class-14.md) |
+| 15 | [Stacks & Queues](Code401/class-15.md) |
+| 16 | [Machine Learning Intro](Code401/class-15.md) |
+| 17 | [Web Scraping](Code401/class-15.md) |
+| 18 | [Cryptography](Code401/class-15.md) |
+| 19 | [Automation](Code401/class-15.md) |
