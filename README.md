@@ -1,4 +1,6 @@
-# **`reading-notes`**
+# **`Reading notes`**
+
+This web site is a notes repo for 102,201,301 and 401 ASAC-CodeFellows Software development courses
 
 ## Introduction
 
