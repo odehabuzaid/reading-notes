@@ -1,12 +1,14 @@
 # Class 3
 ## FileIO & Exceptions
 
-## *Read & Write Files*
+*Read & Write Files*
+
 A file is a set of bytes used to store data on storage media and they are organized in a specific *format* . 
 
 these bytes are then translated into a *stream* of characters that can be read or written.
 
 on most modern file systems , files are composed of three parts:
+    
     1- header.  => contain a header with metadata about the file
     2- data.  =>   contains the actual data of the file as bytes
     3- EOF - End Of FIle. => marks the location of end of the file
@@ -120,7 +122,7 @@ assert lucas(0) == expected_results
 if `lucas(0)` returns `2` then the program will continue. as the test will pass.
 
 if if `lucas(0)` did not returned what exactly expected then the program will throw an `AssertionError` `exception`. which will cause a test failure.
-
+ 
 
  we can use the `try` `except` `block` & `finally` .
  
