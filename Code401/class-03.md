@@ -137,25 +137,27 @@ if if `lucas(0)` did not returned what exactly expected then the program will th
  > The code will try the first block and if it fails or threw and exception, it will run the except block. 
  
  ```py
+usrname_input = 'guest'
+tries = 0
 def start():
-"""Some functions """
-
+    """Some functions """
+    print('started')
+    
 def login(username_input,password_input):
     username = 'Sanad'
     password = '3042018'
-        if username_input != username and password_input != password:: 
-            raise Exception('{} - Incorrect username\\password !'.format(username_input))
+    if username_input != username and password_input != password:
+        raise Exception('{} - Incorrect username\\password !'.format(username_input))
 
-usrname_input = 'guest'
-tries = 0
+
 try: # will start the excution of this block first
     usrname_input = input('username: ')
     password_input = input('password: ')
     login(usrname_input,password_input)
+    start()
 except Exception as error:
     # in case of exceptions , the program will run this block
-    print(error)
-    tries += 1
+    # -print(error)
     if tries == 3:
         print('you have exceeded the number of tries')
     else:
@@ -163,19 +165,9 @@ except Exception as error:
         usrname_input = input('username: ')
         password_input = input('password: ')
         login(usrname_input,password_input)
+    tries += 1
 finally:
     # this statement will always be printed 
     print('this code lives 👋')
-else:
-    # if there is no exceptions , the program will run this block
-    try:
-     user_verified(usrname_input)
-    except Exception as error:
-        print(error)
-        print('verify your email please !!')
-        exit()
-        else:
-            print('👋 Hello {} what do you want to do ? '.format(username_input))
-            start()
 
 ```
