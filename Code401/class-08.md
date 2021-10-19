@@ -3,12 +3,12 @@
 Table of content 
     
 - [class 8](#class-8)
-  - [<ins>*List comprehension*](#list-comprehension)
-  - [<ins>*Python Decorators*](#python-decorators)
+  - [*List comprehension*](#list-comprehension)
+  - [*Python Decorators*](#python-decorators)
     - [*First-Class Objects*](#first-class-objects)
     - [*Inner Functions*](#inner-functions)
     - [*Returning Functions From Functions*](#returning-functions-from-functions)
-  - [<ins>*PySnooper*](#pysnooper)
+  - [*PySnooper*](#pysnooper)
     - [*Debugging*](#debugging)
     - [*debugging with pySnooper*](#debugging-with-pysnooper)
 
