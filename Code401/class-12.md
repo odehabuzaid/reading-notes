@@ -1,4 +1,4 @@
-# class 10
+# class 12
 
 ## <ins>*Pandas*
 > its a powerful and flexible quantitative library for data analysis.its built on NumPy and provides easy-to-use data structures and data analysis tools for the Python.
