@@ -91,7 +91,7 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 13 | [Linear Regressions](Code401/class-13.md) |
 | 14 | [Data Visualization](Code401/class-14.md) |
 | 15 | [Stacks & Queues](Code401/class-15.md) |
-| 16 | [Machine Learning Intro](Code401/class-15.md) |
-| 17 | [Web Scraping](Code401/class-15.md) |
-| 18 | [Cryptography](Code401/class-15.md) |
-| 19 | [Automation](Code401/class-15.md) |
+| 16 | [Machine Learning Intro](Code401/class-16.md) |
+| 17 | [Web Scraping](Code401/class-17.md) |
+| 18 | [Cryptography](Code401/class-18.md) |
+| 19 | [Automation](Code401/class-19.md) |
