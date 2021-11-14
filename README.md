@@ -96,4 +96,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 18 | [Cryptography](Code401/class-18.md) |
 | 19 | [Automation](Code401/class-19.md) |
 |    | [Project-Week](#) |
-| 19 | [Django ](Code401/class-26.md) |
+| 26 | [Django ](Code401/class-26.md) |
