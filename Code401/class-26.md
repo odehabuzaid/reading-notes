@@ -1,4 +1,4 @@
-# class 19
+# class 26
 
 ## <ins>*Django*
 
