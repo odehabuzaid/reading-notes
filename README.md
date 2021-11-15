@@ -97,3 +97,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 19 | [Automation](Code401/class-19.md) |
 |    | [Project-Week](#) |
 | 26 | [Django ](Code401/class-26.md) |
+| 27 | [Django Models & Admin ](Code401/class-27.md) |
