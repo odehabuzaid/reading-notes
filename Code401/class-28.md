@@ -66,8 +66,8 @@ __`index.html`__
 </head>  
 <body>  
 <form method="POST" class="post-form">  
-        <!--{% csrf_token %}  
-        {{ form.as_p }}  -->
+        <!--%  %  
+         form.as_p   -->
         <button type="submit" class="save btn btn-default">Save</button>  
 </form>  
 </body>  
