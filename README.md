@@ -100,3 +100,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 27 | [Django Models & Admin ](Code401/class-27.md) |
 | 28 | [Django Forms ](Code401/class-28.md) |
 | 29 | [Django Custom User Model ](Code401/class-29.md) |
+| 30 | [Hash Tables](Code401/class-30.md) |
