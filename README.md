@@ -102,3 +102,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 29 | [Django Custom User Model ](Code401/class-29.md) |
 | 30 | [Hash Tables](Code401/class-30.md) |
 | 31 | [Docker](Code401/class-31.md) |
+| 32 | [DRF Permissions](Code401/class-32.md) |
