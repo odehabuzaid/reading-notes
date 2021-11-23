@@ -1,4 +1,4 @@
-# class 31
+# class 32
 
 ## <ins>*DRF Permissions*
 
