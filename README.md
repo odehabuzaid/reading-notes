@@ -104,3 +104,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 31 | [Docker](Code401/class-31.md) |
 | 32 | [DRF Permissions](Code401/class-32.md) |
 | 33 | [Authentication & Production Server](Code401/class-33.md) |
+| 33 | [API Deployment](Code401/class-34.md) |
