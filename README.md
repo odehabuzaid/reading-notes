@@ -106,3 +106,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 33 | [Authentication & Production Server](Code401/class-33.md) |
 | 34 | [API Deployment](Code401/class-34.md) |
 | 35 | [Graphs](Code401/class-35.md) |
+| 36 | [DSA REVIEW](Code401/class-36.md) |
