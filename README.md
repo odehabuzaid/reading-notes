@@ -96,10 +96,10 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 18 | [Cryptography](Code401/class-18.md) |
 | 19 | [Automation](Code401/class-19.md) |
 |    | [Project-Week](#) |
-| 26 | [Django ](Code401/class-26.md) |
-| 27 | [Django Models & Admin ](Code401/class-27.md) |
-| 28 | [Django Forms ](Code401/class-28.md) |
-| 29 | [Django Custom User Model ](Code401/class-29.md) |
+| 26 | [Django](Code401/class-26.md) |
+| 27 | [Django Models & Admin](Code401/class-27.md) |
+| 28 | [Django Forms](Code401/class-28.md) |
+| 29 | [Django Custom User Model](Code401/class-29.md) |
 | 30 | [Hash Tables](Code401/class-30.md) |
 | 31 | [Docker](Code401/class-31.md) |
 | 32 | [DRF Permissions](Code401/class-32.md) |
@@ -110,3 +110,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 37 | [React 1](Code401/class-37.md) |
 | 38 | [React 2](Code401/class-38.md) |
 | 39 | [React 3](Code401/class-39.md) |
+| 40 | [NextJs Deployment](Code401/class-40.md) |
