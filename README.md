@@ -112,3 +112,4 @@ Now I am learning  Software Development to advance my career obtaining a full-st
 | 39 | [React 3](Code401/class-39.md) |
 | 40 | [NextJs Deployment](Code401/class-40.md) |
 | 41 | [Pythonisms](Code401/class-41.md) |
+| 42 | [open-source contribution](Code401/class-41.md) 
