@@ -26,7 +26,7 @@ Some of the study's results include:
 
 ##
 
-![Motivations for contributing to FOSS](https://i.ibb.co/89GJJGS/sankey-motivations.png)
+<img src=https://i.ibb.co/89GJJGS/sankey-motivations.png)/>
 
 (Source: [Gerosa, et al.](https://arxiv.org/pdf/2101.10291.pdf))
 
